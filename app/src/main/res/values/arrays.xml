@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="группы">
+        <item>Группа</item>
+
+        <item>ИСИП</item>
+        <item>МЛ (платное)</item>
+        <item>МР</item>
+        <item>МР ДорМаш</item>
+        <item>ОП (платное)</item>
+        <item>ОП </item>
+        <item>САД </item>
+        <item>ТД </item>
+        <item>ТОД </item>
+        <item>ТОД (платное) </item>
+        <item>ТЭМ  </item>
+
+    </string-array>
+    <string-array name="Допгруппы">
+        <item>Доп.Группа</item>
+
+        <item>ИСИП</item>
+        <item>МЛ (платное)</item>
+        <item>МР</item>
+        <item>МР ДорМаш</item>
+        <item>ОП (платное)</item>
+        <item>ОП </item>
+        <item>САД </item>
+        <item>ТД </item>
+        <item>ТОД </item>
+        <item>ТОД (платное) </item>
+        <item>ТЭМ  </item>
+
+    </string-array>
+    <string-array name="Оригинал">
+        <item>Оригинал/Копия аттестата</item>
+        <item>Оригинал</item>
+        <item>Копия</item>
+
+    </string-array>
+
+
+
+</resources>
